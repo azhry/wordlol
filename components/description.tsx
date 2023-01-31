@@ -1,7 +1,7 @@
 const Description: React.FC = () => {
   return (
     <div className="text-center my-4">
-      <h1 className="text-4xl font-bold">AH------LOL</h1>
+      <h1 className="text-4xl font-bold">CORN-LOL</h1>
       <p className="italic">Practice your Wordle game, for the lols.</p>
       <ul className="hidden md:block text-left list-disc mt-4">
         <li className="">Guess the word by typing it in the input below.</li>
