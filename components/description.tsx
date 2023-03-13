@@ -3,6 +3,7 @@ const Description: React.FC = () => {
     <div className="text-center my-4">
       <h1 className="text-4xl font-bold">WELCOME TO WORD-LOL</h1>
       <p className="italic">Practice your Wordle game, for the lols.</p>
+      <p className="italic">Made with Love. Powered by Lyrid.io</p>
       <ul className="hidden md:block text-left list-disc mt-4">
         <li className="">Guess the word by typing it in the input below.</li>
         <li>You have 5 guesses.</li>
