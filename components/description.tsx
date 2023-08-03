@@ -1,7 +1,7 @@
 const Description: React.FC = () => {
   return (
     <div className="text-center my-4">
-      <h1 className="text-4xl font-bold">WELCOME TO WORD-LOL</h1>
+      <h1 className="text-4xl font-bold">WELCOME TO WORD-TEST</h1>
       <p className="italic">Practice your Wordle game, for the lols.</p>
       <p className="italic">Made with Love. Powered by Lyrid.io</p>
       <ul className="hidden md:block text-left list-disc mt-4">
